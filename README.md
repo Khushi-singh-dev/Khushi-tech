@@ -1,6 +1,6 @@
 # khushi-singh
-this is my first git repository
-<br>
+
+
 Hi, I'm Khushi 👋
 
 🎓 I'm a B.Sc. CS student | 💻 Aspiring Full Stack Developer  
