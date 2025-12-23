@@ -3,17 +3,17 @@
 
 Hi, I'm Khushi 👋
 
-🎓 I'm a B.Sc. CS student | 💻 Aspiring Full Stack Developer  
-🌱 Currently learning DSA in Java & MERN stack  
-🔭 Building a Ludo game & food delivery app  
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/khushi-singh-68294028b) | Email: khushisatishsingh211@gmail.com
+🎓 I'm a B.Sc. CS student | 💻 Aspiring Java Full Stack Developer  
+🌱 Currently learning DSA in Java & Java Spring Boot  
+🔭 Building a food delivery website & My portfolio website 
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/khushi-singh-68294028b) | [Youtube](https://www.youtube.com/@KHUSHISATISHSINGH211)| Email: khushisatishsingh211@gmail.com
 
 🚀 Skills
-HTML | CSS | JavaScript | Java | Git | GitHub | React | Node.js
+HTML | CSS | JavaScript | Java | Git | GitHub | React | Node.js | Spring Boot | MySQL 
 
 📂 Projects
-- 🔗 [Ludo Game](https://github.com/khushisatishsingh211@gmail.com/ludo-game)
-- 🍽️ [Food Delivery App](https://github.com/khushisatishsingh211@gmail.com/food-delivery)
+- 🔗 [My Portfolio Website](https://github.com/khushisatishsingh211@gmai.com/My_Portfolio)
+- 🍽️ [Food Delivery Website](https://github.com/khushisatishsingh211@gmail.com/food-delivery)
 
 <br>
-Author- khushi singh
+Author- Khushi Singh
