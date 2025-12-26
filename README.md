@@ -13,8 +13,8 @@ Hi, I'm Khushi 👋
 HTML | CSS | JavaScript | Java | Git | GitHub | React | Node.js | Spring Boot | MySQL 
 
 📂 Projects
-- 🔗 [My Portfolio Website](https://github.com/khushisatishsingh211@gmai.com/My_Portfolio)
-- 🍽️ [Food Delivery Website](https://github.com/khushisatishsingh211@gmail.com/food-delivery)
+- 🔗 [My Portfolio Website](https://github.com/khushi-singh-dev/My_Portfolio)
+- 🍽️ [Food Delivery Website](https://github.com/khushi-singh-dev/Food_Delivery_Website)
 
 <br>
 Author- Khushi Singh
